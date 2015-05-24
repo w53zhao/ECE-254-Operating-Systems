@@ -1,6 +1,3 @@
-Taylor Chen 20527579
-Wenxi Zhao 20508483
-
 Answers to lab questions: .\Lab 2 Questions.docx
 os_tsk_count_get: RTX_CM3\SRC\CM\rt_Task_ext.c
 Testing tasks: HelloWorld\src\helloworld.c
